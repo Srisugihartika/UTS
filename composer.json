@@ -1,0 +1,13 @@
+{
+    "name" : "labsroom/harga-barang",
+    "authors": [
+        {
+            "name": "atik",
+            "email" : "hartika3110@gmail.com"
+        }
+    ],
+    "require": {
+        "phpuit/phpunit": "^6.5"
+    }
+    
+}
